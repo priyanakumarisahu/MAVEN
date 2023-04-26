@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Testngprogram.chiku"/>
+      <class name="Testngprogram.program1"/>
+      <class name="Testngprogram.program2"/>
+      <class name="Testngprogram.program3"/>
+      <class name="Testngprogram.program4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
